@@ -25,15 +25,8 @@ I am an aspiring data scientist with a strong interest in Artificial Intelligenc
 
 ## 📂 Project Highlights
 
-### 🔹 [Breast Cancer Classification](https://github.com/akmalxyz/breast-cancer-classification)
-Binary classification to predict tumor types using Scikit-Learn.
-
-
 ### 🔹 [Human Action Recognition](https://github.com/akmalxyz/action-recognition)
 Classifying hand gestures in videos using EfficientNetB7 and VGG16.
-
-### 🔹 [Cyberbullying Detection (Hackathon)](https://github.com/akmalxyz/cyberbullying-detector)
-Text classification model to detect cyberbullying in tweets.
 
 ### 🔹 [GroundTruth NO2](https://github.com/Akma86/GroundTruth-NO2)
 Predicting NO2 concentrations using LightGBM and remote sensing data.  
@@ -46,14 +39,16 @@ Predicting survival after hematopoietic cell transplantation using stacking (XGB
 ### 🔹 [British Airways Job Simulation (Forage)](https://github.com/Akma86/British-Airways-Job-SImulation-Forage)
 Web scraping and NLP classification as part of a simulated job task.
 
-### 🔹 [Flower Classification](https://www.kaggle.com/competitions/flower-classification-on-tpu)
+### 🔹 [Flower Classification](https://www.kaggle.com/code/akmalyaasir/flower-classification)
 Image classification of 104 flower species using MobileNetV2.  
-**Metrics**: F1 = 0.737, Precision = 0.771, Recall = 0.723
 
 ### 🔹 [RockPaperScissors Classification](https://github.com/Akma86/RockPaperScissors-Classification)
 Gesture classification using CNNs with OpenCV and TensorFlow.
 
-### 🔹 [Brain Tumor Segmentation and Classification](https://github.com/Akma86/RockPaperScissors-Classification)
+### 🔹 [Brain Tumor Segmentation and Classification](https://github.com/Akma86/mri-brain-image)
+Gesture classification using CNNs with OpenCV and TensorFlow.
+
+### 🔹 [CIDAUT AI Fake Scene Classification 2024](https://www.kaggle.com/code/akmalyaasir/real-vs-ai-images-detections)
 Gesture classification using CNNs with OpenCV and TensorFlow.
 ---
 
